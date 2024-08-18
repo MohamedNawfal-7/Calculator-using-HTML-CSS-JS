@@ -1,0 +1,45 @@
+.heading{
+    color: black;
+    font-style:italic;
+    font-size: x-large;
+    padding-top: 25px;
+}
+table{
+    border: 1px solid rgb(16, 22, 84);
+    background-color: rgb(97, 103, 106);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+input[type="button"]{
+    width: 100%;
+    padding: 20px 30px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: whitesmoke;
+    color: black;
+}
+input[type="text"]{
+    padding: 20px 30px;
+    border-radius: 5px;
+    background-color: whitesmoke ;
+    color: black;
+}
+.container{
+    background-color: rgb(143, 144, 140);
+    justify-content: center;
+    align-items: center;
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 10px;
+    height: 390px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 5px;
+    color: whitesmoke;
+}
